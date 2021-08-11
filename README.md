@@ -5,7 +5,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKS65&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
-## Linguagens & Ferramentas 🧰
+## Linguagens & Ferramentas
 <p style="display: inline_block">
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +23,10 @@
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
 </p>
 
-## Contato 📞
+## Contato
 <p>
-    <a href = "mailto:gabriel.kschiavo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:gabriel.kschiavo@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" ></a>
 </p>
+
+https://simpleicons.org/icons/gmail.svg
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
