@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel 👋
+## Olá! Eu sou o Gabriel  👋
 
 <p>
     <a>
@@ -26,6 +26,8 @@
 </p>
 
 <br>
+
+## Contato
 
 <p>
     <a href = "mailto:gabriel.kschiavo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
