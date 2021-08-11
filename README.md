@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel   <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "32px">
 
  - 👨‍🎓 Atualmente estudando;
- - 📖 Aprendendo: React, Python;
+ - 📖 Aprendendo: Python;
  - 😀 Pronouns: ele/dele
 <p>
     <a href="https://github.com/GKS65">
