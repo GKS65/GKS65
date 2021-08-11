@@ -25,8 +25,5 @@
 
 ## Contato
 <p>
-    <a href = "mailto:gabriel.kschiavo@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" ></a>
+    <a href = "mailto:gabriel.kschiavo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
-
-https://simpleicons.org/icons/gmail.svg
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
