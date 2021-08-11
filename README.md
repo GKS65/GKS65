@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "29px">
+## Olá! Eu sou o Gabriel  <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "30px">
 <p>
     <a href="https://github.com/GKS65">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GKS65&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
