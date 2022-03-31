@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Gabriel   <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "32px">
 
-<!--  - 👨‍🎓 Atualmente estudando;
- - 📖 Aprendendo: Python;
- - 😀 Pronouns: ele/dele -->
 <p>
     <a href="https://github.com/GKS65">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GKS65&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,13 +15,13 @@
     <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg">
-    <!-- <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> 
+    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> 
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <-- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
     <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    <img align="center" alt="nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
+    <img align="center" alt="nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> -->
+    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
 
 ## Contato
