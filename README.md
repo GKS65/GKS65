@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Gabriel  <!-- <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "35px"> -->
 
 <p align="left">
-    <a href="https://github.com/gabrielschiavo">
-    <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gabrielschiavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielschiavo&layout=compact&langs_count=7&theme=dark"/>
+    <a href="https://github.com/GabrielSchiavo">
+    <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api?username=GabrielSchiavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSchiavo&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 ## Linguagens & Ferramentas
