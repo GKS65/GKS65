@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel  <!-- <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "35px"> -->
+<!-- ## Olá! Eu sou o Gabriel -->
 
 <p align="left">
     <a href="https://github.com/GabrielSchiavo">
