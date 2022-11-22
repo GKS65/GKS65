@@ -4,7 +4,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSchiavo&show_icons=true&theme=dark"/>                        
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSchiavo&layout=compact&theme=dark"/>
 </div>
-
+    
 <!-- <br/>
 <div style="display: inline_block">
     <a href = "mailto:gabriel.kschiavo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
