@@ -9,8 +9,8 @@
 <br/>
 <div align="left" style="align-content: space-between;">
     <a href="https://github.com/GabrielSchiavo"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GabrielSchiavo&show_icons=true&theme=holi&border_radius=12&hide_border=true"/>     
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSchiavo&layout=compact&langs_count=8&theme=holi&border_radius=12&hide_border=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielSchiavo&show_icons=true&theme=holi&border_radius=12&hide_border=true"/>     
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSchiavo&layout=compact&langs_count=8&theme=holi&border_radius=12&hide_border=true"/>
 </div>
 
 ##
